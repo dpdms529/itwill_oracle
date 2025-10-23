@@ -76,3 +76,7 @@ Predicate Information (identified by operation id):
    1 - access("E"."DEPARTMENT_ID"="D"."DEPARTMENT_ID")
 
 select * from table(dbms_xplan.display_cursor(null, null, 'allstats last'));
+
+SELECT /*+ gather_plan_statistics */ department_id, sum(salary)
+FROM hr.employees
+GROUP BY department_id;
