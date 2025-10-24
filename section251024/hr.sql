@@ -345,12 +345,3 @@ UNPIVOT(인원수 FOR 년도 IN ("2001", "2002", "2003", "2004", "2005", "2006", "200
 SELECT to_char(hire_date, 'yyyy') year, count(*) cnt
 FROM hr.employees
 GROUP BY to_char(hire_date, 'yyyy');
-
-SELECT * 
-FROM (
-        SELECT * 
-        FROM (SELECT to_char(hire_date, 'yyyy') year
-                FROM hr.employees)
-                PIVOT (count(*) FOR year in ('2001' "2001", '2002' "2002", '2003' "2003", '2004' "2004", '2005' "2005", '2006' "2006", '2007' "2007", '2008' "2008")))
-UNPIVOT(인원수 FOR 년도 IN ("2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008"));
-        
