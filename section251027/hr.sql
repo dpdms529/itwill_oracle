@@ -308,7 +308,14 @@ FROM hr.employees e
 WHERE (employee_id, job_id) in (SELECT employee_id, job_id
                                 FROM hr.job_history
                                 WHERE employee_id = e.employee_id
-                                and job_id = e.job_id);              
+                                and job_id = e.job_id);                                
+                                
+SELECT e.employee_id, e.job_id
+FROM hr.employees e, hr.job_history j
+WHERE e.employee_id = j.employee_id 
+AND e. job_id = j.job_id;
+
+select 
 
 -- minus
 SELECT employee_id, job_id
@@ -329,4 +336,4 @@ FROM hr.employees e
 WHERE (employee_id, job_id) not in (SELECT employee_id, job_id
                                     FROM hr.job_history
                                     WHERE employee_id = e.employee_id
-                                    and job_id = e.job_id);                
+                                    and job_id = e.job_id);       
