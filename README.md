@@ -7,3 +7,4 @@
 - [251023-TIL](https://joysdevlog.tistory.com/entry/251023-TIL)
 - [251024-TIL](https://joysdevlog.tistory.com/entry/251024-TIL)
 - [251027-TIL](https://joysdevlog.tistory.com/entry/251027-TIL)
+- [251028-TIL](https://joysdevlog.tistory.com/entry/251028-TIL)
