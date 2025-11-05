@@ -13,3 +13,4 @@
 - [251031-TIL](https://joysdevlog.tistory.com/entry/251031-TIL)
 - [251103-TIL](https://joysdevlog.tistory.com/entry/251103-TIL)
 - [251104-TIL](https://joysdevlog.tistory.com/entry/251104-TIL)
+- [251105-TIL](https://joysdevlog.tistory.com/entry/251105-TIL)
