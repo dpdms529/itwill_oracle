@@ -16,5 +16,6 @@
 |[251103](https://joysdevlog.tistory.com/entry/251103-TIL)|SQL|SEQUENCE, SYNONYM, ROWID, INDEX, WITH|
 |[251104](https://joysdevlog.tistory.com/entry/251104-TIL)|PL/SQL|익명블록구조, 변수, 함수, 중첩블록, 조건제어문|
 |[251105](https://joysdevlog.tistory.com/entry/251105-TIL)|PL/SQL|조건제어문, 반복문|
-|[251106](https://joysdevlog.tistory.com/entry/251106-TIL)|PL/SQL|SQL CURSOR, SELECT INTO, RECORD|
+|[251106](https://joysdevlog.tistory.com/entry/251106-TIL)|PL/SQL|SQL Cursor, Implicit Cursor, SELECT INTO, RECORD|
 |[251107](https://joysdevlog.tistory.com/entry/251107-TIL)|PL/SQL|ASSOCIATIVE ARRAY, NESTED TABLE, VARRAY|
+|[251110](https://joysdevlog.tistory.com/entry/251110-TIL)|PL/SQL|Explicit Cursor|
