@@ -371,6 +371,13 @@ END;
 /
 
 desc emp_proc;
+/*
+인수 이름  유형       In/Out 기본값?    
+------ -------- ------ ------- 
+P_ID   NUMBER   IN     unknown 
+P_NAME VARCHAR2 OUT    unknown 
+P_SAL  NUMBER   OUT    unknown 
+*/
 
 -- 호출
 var b_name varchar2(30);
