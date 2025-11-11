@@ -19,3 +19,4 @@
 |[251106](https://joysdevlog.tistory.com/entry/251106-TIL)|PL/SQL|SQL Cursor, Implicit Cursor, SELECT INTO, RECORD|
 |[251107](https://joysdevlog.tistory.com/entry/251107-TIL)|PL/SQL|ASSOCIATIVE ARRAY, NESTED TABLE, VARRAY|
 |[251110](https://joysdevlog.tistory.com/entry/251110-TIL)|PL/SQL|Explicit Cursor|
+|[251111](https://joysdevlog.tistory.com/entry/251111-TIL)|PL/SQL|예외처리, Predefined Exception, Non Predefined Exception, User Defined Exception, 서브 프로그램, PROCEDURE|
