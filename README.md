@@ -20,3 +20,4 @@
 |[251107](https://joysdevlog.tistory.com/entry/251107-TIL)|PL/SQL|ASSOCIATIVE ARRAY, NESTED TABLE, VARRAY|
 |[251110](https://joysdevlog.tistory.com/entry/251110-TIL)|PL/SQL|Explicit Cursor|
 |[251111](https://joysdevlog.tistory.com/entry/251111-TIL)|PL/SQL|예외처리, Predefined Exception, Non Predefined Exception, User Defined Exception, 서브 프로그램, PROCEDURE|
+|[251112](https://joysdevlog.tistory.com/entry/251112-TIL)|PL/SQL|RETURN, IN OUT 모드, 실제 매개 변수 입력 방식, 프로시저 권한 부여, 예외 처리 위치, 프로시저 삭제, FUNCTION|
