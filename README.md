@@ -23,3 +23,4 @@
 |[251112](https://joysdevlog.tistory.com/entry/251112-TIL)|PL/SQL|RETURN, IN OUT 모드, 실제 매개 변수 입력 방식, 프로시저 권한 부여, 예외 처리 위치, 프로시저 삭제, FUNCTION|
 |[251113](https://joysdevlog.tistory.com/entry/251113-TIL)|PL/SQL|FUNCTION, PACKAGE|
 |[251114](https://joysdevlog.tistory.com/entry/251114-TIL)|PL/SQL|PACKAGE, 패키지 커서 지속 상태, PRAGMA SERIALLY_REUSABLE, TRIGGER, DML 트리거|
+|[251117](https://joysdevlog.tistory.com/entry/251117-TIL)|PL/SQL|TRIGGER, DML 작업 복제, 값에 대한 감사 구현, 복합뷰 DML을 위한 트리거, DDL 트리거, DDL문 감사 트리거|
