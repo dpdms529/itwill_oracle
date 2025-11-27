@@ -24,3 +24,4 @@
 |[251113](https://joysdevlog.tistory.com/entry/251113-TIL)|PL/SQL|FUNCTION, PACKAGE|
 |[251114](https://joysdevlog.tistory.com/entry/251114-TIL)|PL/SQL|PACKAGE, 패키지 커서 지속 상태, PRAGMA SERIALLY_REUSABLE, TRIGGER, DML 트리거|
 |[251117](https://joysdevlog.tistory.com/entry/251117-TIL)|PL/SQL|TRIGGER, DML 작업 복제, 값에 대한 감사 구현, 복합뷰 DML을 위한 트리거, DDL 트리거, DDL문 감사 트리거|
+|[251118](https://joysdevlog.tistory.com/entry/251118-TIL)|PL/SQL|직무별 급여 유효성 검사 트리거, CALL문 복합 트리거, PRAGMA AUTONOMOUS_TRANSACTION|
