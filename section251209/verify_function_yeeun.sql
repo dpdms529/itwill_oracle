@@ -86,7 +86,7 @@ END verify_function_yeeun;
 /
 
 begin
-    if verify_function_yeeun('insa', 'yeeuN!123', 'oracle4567') then
+    if verify_function_yeeun('insa', 'yeeuN!1234', 'oracle4567') then
         dbms_output.put_line('good');
     else
         dbms_output.put_line('bad');
